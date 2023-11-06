@@ -2,7 +2,7 @@
  This repo allows to create 3D object thanks to SDF and Bezier curve under QT6/Visual Studio
 
 
-# .h file are in the folder AppTinyMesh\Include.
+## .h file are in the folder AppTinyMesh\Include.
 
 # .cpp file are in the folder AppTinyMesh\Source.
 
